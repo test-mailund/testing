@@ -6,6 +6,3 @@ Change 2
 Change 3
 Change 4
 
-This is another Change
-Foo bar baz
-Qux qax quux
