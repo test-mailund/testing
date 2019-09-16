@@ -7,3 +7,4 @@ Change 3
 Change 4
 
 This is another Change
+Foo bar baz
